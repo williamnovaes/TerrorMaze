@@ -1,0 +1,6439 @@
+fileFormatVersion: 2
+guid: 4f09237492b546a40a0d822ddc2a8952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3717354671622814858
+    second: frenteall0000
+  - first:
+      213: 8838640015147760892
+    second: frenteall0002
+  - first:
+      213: -4706128810547319857
+    second: frenteall0004
+  - first:
+      213: 2519926140392616122
+    second: frenteall0006
+  - first:
+      213: -8538018934397708964
+    second: frenteall0008
+  - first:
+      213: -8274758647149912202
+    second: frenteall0010
+  - first:
+      213: -5999824200176961242
+    second: frenteall0012
+  - first:
+      213: -3083012282168660609
+    second: frenteall0014
+  - first:
+      213: -4617771507526366443
+    second: frenteall0016
+  - first:
+      213: 3765617960262292598
+    second: frenteall0018
+  - first:
+      213: 2340202836536620920
+    second: frenteall0020
+  - first:
+      213: 7571859673957378723
+    second: frenteall0022
+  - first:
+      213: -1197709474372803849
+    second: frenteall0024
+  - first:
+      213: -2415041886696662136
+    second: frenteall0026
+  - first:
+      213: 8431332831586850474
+    second: frenteall0028
+  - first:
+      213: 7646127748963553681
+    second: frenteall0030
+  - first:
+      213: 447374100559552552
+    second: frenteall0032
+  - first:
+      213: -1005398356935410879
+    second: frenteall0034
+  - first:
+      213: 2414604411278335546
+    second: frenteall0036
+  - first:
+      213: 5353452514334312869
+    second: frenteall0038
+  - first:
+      213: 9179015520568648366
+    second: frenteall0040
+  - first:
+      213: 3554196655229747929
+    second: frenteall0042
+  - first:
+      213: -1796653031766266301
+    second: frenteall0044
+  - first:
+      213: -5661531710190349069
+    second: frenteall0046
+  - first:
+      213: 9012373223694790216
+    second: frenteall0048
+  - first:
+      213: -5675788923948973231
+    second: frenteall0050
+  - first:
+      213: -2171766945015965100
+    second: frenteall0052
+  - first:
+      213: 7832071190464886520
+    second: frenteall0054
+  - first:
+      213: -2655820226550474908
+    second: frenteall0056
+  - first:
+      213: -613021243522001140
+    second: frenteall0058
+  - first:
+      213: -1424198309572007267
+    second: frenteall0060
+  - first:
+      213: -3360770236197098252
+    second: frenteall0062
+  - first:
+      213: 8048839876523779982
+    second: frenteall0064
+  - first:
+      213: -8246035005971570547
+    second: lado1all0000
+  - first:
+      213: 1884285527141508286
+    second: lado1all0002
+  - first:
+      213: 8235077218529232059
+    second: lado1all0004
+  - first:
+      213: -6982779505084660416
+    second: lado1all0006
+  - first:
+      213: -1613841169443958334
+    second: lado1all0008
+  - first:
+      213: -1082821790026556268
+    second: lado1all0010
+  - first:
+      213: 8037403191129495404
+    second: lado1all0012
+  - first:
+      213: 8565494887563644345
+    second: lado1all0014
+  - first:
+      213: -3122894196926926097
+    second: lado1all0016
+  - first:
+      213: 6650400729057050848
+    second: lado1all0018
+  - first:
+      213: -1502971174079990797
+    second: lado1all0020
+  - first:
+      213: 3989424287931112250
+    second: lado1all0022
+  - first:
+      213: 4973749655033512564
+    second: lado1all0024
+  - first:
+      213: -2592263635178020617
+    second: lado1all0026
+  - first:
+      213: -6190702881553529784
+    second: lado1all0028
+  - first:
+      213: 8800338021511632046
+    second: lado1all0030
+  - first:
+      213: -1421150758380961314
+    second: lado1all0032
+  - first:
+      213: -1603645963461779512
+    second: lado1all0034
+  - first:
+      213: 4803971999885580468
+    second: lado1all0036
+  - first:
+      213: -7416265974965014784
+    second: lado1all0038
+  - first:
+      213: 8813425687399127961
+    second: lado1all0040
+  - first:
+      213: -8772184195314992097
+    second: lado1all0042
+  - first:
+      213: -8599537781855253687
+    second: lado1all0044
+  - first:
+      213: -1607440521742235930
+    second: lado1all0046
+  - first:
+      213: 5391383875030909682
+    second: lado1all0048
+  - first:
+      213: 1924489106547302295
+    second: lado1all0050
+  - first:
+      213: 3016243500801312423
+    second: lado1all0052
+  - first:
+      213: 1172794748755242255
+    second: lado1all0054
+  - first:
+      213: 4492582586251725644
+    second: lado1all0056
+  - first:
+      213: -1980911157775172185
+    second: lado1all0058
+  - first:
+      213: -2383932222895379511
+    second: lado1all0060
+  - first:
+      213: 3167787897729411207
+    second: lado1all0062
+  - first:
+      213: -8983592787563323310
+    second: lado1all0064
+  - first:
+      213: 6144114144131339003
+    second: lado2all0000
+  - first:
+      213: -8932485961978599183
+    second: lado2all0002
+  - first:
+      213: -6715403317520977466
+    second: lado2all0004
+  - first:
+      213: 3613421798063797581
+    second: lado2all0006
+  - first:
+      213: 4122211572661702096
+    second: lado2all0008
+  - first:
+      213: -1623261197013104176
+    second: lado2all0010
+  - first:
+      213: -4121389063470632588
+    second: lado2all0012
+  - first:
+      213: -3088231871324346150
+    second: lado2all0014
+  - first:
+      213: -6659165026113325981
+    second: lado2all0016
+  - first:
+      213: -9223001288478231802
+    second: lado2all0018
+  - first:
+      213: -7492053500227287899
+    second: lado2all0020
+  - first:
+      213: -2909924137907889917
+    second: lado2all0022
+  - first:
+      213: -6058052714972803068
+    second: lado2all0024
+  - first:
+      213: 226276927142288477
+    second: lado2all0026
+  - first:
+      213: -8694313521683513281
+    second: lado2all0028
+  - first:
+      213: -2350141588897398838
+    second: lado2all0030
+  - first:
+      213: -1723479743024488386
+    second: lado2all0032
+  - first:
+      213: -1409079516350566790
+    second: lado2all0034
+  - first:
+      213: -8500766227837432601
+    second: lado2all0036
+  - first:
+      213: 6316476306278337783
+    second: lado2all0038
+  - first:
+      213: 7065280127616661155
+    second: lado2all0040
+  - first:
+      213: 8242382987058708159
+    second: lado2all0042
+  - first:
+      213: -8743471268447232689
+    second: lado2all0044
+  - first:
+      213: -4419805682568900640
+    second: lado2all0046
+  - first:
+      213: 1872413053996407472
+    second: lado2all0048
+  - first:
+      213: -36629658861334406
+    second: lado2all0050
+  - first:
+      213: 4942826263223092416
+    second: lado2all0052
+  - first:
+      213: 4328057333310945787
+    second: lado2all0054
+  - first:
+      213: 8466885551085530384
+    second: lado2all0056
+  - first:
+      213: 567047436992750182
+    second: lado2all0058
+  - first:
+      213: 1886198945754172645
+    second: lado2all0060
+  - first:
+      213: 455757374796609646
+    second: lado2all0062
+  - first:
+      213: -6377142169617975398
+    second: lado2all0064
+  - first:
+      213: -3600360214839441041
+    second: ladofrente1all0000
+  - first:
+      213: 5379087472384740535
+    second: ladofrente1all0002
+  - first:
+      213: -2307344402744134907
+    second: ladofrente1all0004
+  - first:
+      213: -7187356553519526589
+    second: ladofrente1all0006
+  - first:
+      213: 7365393756346225862
+    second: ladofrente1all0008
+  - first:
+      213: 464880861460297333
+    second: ladofrente1all0010
+  - first:
+      213: 8470014644968945881
+    second: ladofrente1all0012
+  - first:
+      213: -1745325987310905402
+    second: ladofrente1all0014
+  - first:
+      213: 9081295130417868071
+    second: ladofrente1all0016
+  - first:
+      213: 74324824772514542
+    second: ladofrente1all0018
+  - first:
+      213: -7461507104809315341
+    second: ladofrente1all0020
+  - first:
+      213: 7505483324043826235
+    second: ladofrente1all0022
+  - first:
+      213: -7521631576293470546
+    second: ladofrente1all0024
+  - first:
+      213: 5252164554051834344
+    second: ladofrente1all0026
+  - first:
+      213: -4994746099625003509
+    second: ladofrente1all0028
+  - first:
+      213: -8335692193489651579
+    second: ladofrente1all0030
+  - first:
+      213: -1970902908184793561
+    second: ladofrente1all0032
+  - first:
+      213: -2492418117161131300
+    second: ladofrente1all0034
+  - first:
+      213: -5296646009870632505
+    second: ladofrente1all0036
+  - first:
+      213: -5875683151880608589
+    second: ladofrente1all0038
+  - first:
+      213: -27679497041570694
+    second: ladofrente1all0040
+  - first:
+      213: 7996296824123029521
+    second: ladofrente1all0042
+  - first:
+      213: -4082851305533356412
+    second: ladofrente1all0044
+  - first:
+      213: 1586892007476406912
+    second: ladofrente1all0046
+  - first:
+      213: -2508471018421646055
+    second: ladofrente1all0048
+  - first:
+      213: 1701821030822286202
+    second: ladofrente1all0050
+  - first:
+      213: -4889827242506631991
+    second: ladofrente1all0052
+  - first:
+      213: -1529708563790469258
+    second: ladofrente1all0054
+  - first:
+      213: 7898668972974908170
+    second: ladofrente1all0056
+  - first:
+      213: -5563026174030409803
+    second: ladofrente1all0058
+  - first:
+      213: -6249549201076558961
+    second: ladofrente1all0060
+  - first:
+      213: -8092415009869677398
+    second: ladofrente1all0062
+  - first:
+      213: -3386528311782993696
+    second: ladofrente1all0064
+  - first:
+      213: -8193964116644447503
+    second: ladofrente2all0000
+  - first:
+      213: 5157316930016122700
+    second: ladofrente2all0002
+  - first:
+      213: 2367549549354589618
+    second: ladofrente2all0004
+  - first:
+      213: 8371911594227035663
+    second: ladofrente2all0006
+  - first:
+      213: 5838310253993441418
+    second: ladofrente2all0008
+  - first:
+      213: 3583941721739652168
+    second: ladofrente2all0010
+  - first:
+      213: -592390230574719196
+    second: ladofrente2all0012
+  - first:
+      213: 7949906718363767371
+    second: ladofrente2all0014
+  - first:
+      213: -3662776457710886125
+    second: ladofrente2all0016
+  - first:
+      213: 3545801241371521043
+    second: ladofrente2all0018
+  - first:
+      213: 3157527600451009368
+    second: ladofrente2all0020
+  - first:
+      213: 4217436236370876987
+    second: ladofrente2all0022
+  - first:
+      213: -2984915534520677338
+    second: ladofrente2all0024
+  - first:
+      213: -2212064724173480985
+    second: ladofrente2all0026
+  - first:
+      213: 6690148082130704181
+    second: ladofrente2all0028
+  - first:
+      213: -3972881494035373425
+    second: ladofrente2all0030
+  - first:
+      213: -666842359517210673
+    second: ladofrente2all0032
+  - first:
+      213: -1860613000029643157
+    second: ladofrente2all0034
+  - first:
+      213: 3955444190298460448
+    second: ladofrente2all0036
+  - first:
+      213: 7996264363662903135
+    second: ladofrente2all0038
+  - first:
+      213: 5361470541089770144
+    second: ladofrente2all0040
+  - first:
+      213: -4119452224515563497
+    second: ladofrente2all0042
+  - first:
+      213: -3045504793376272951
+    second: ladofrente2all0044
+  - first:
+      213: 1886252696803904018
+    second: ladofrente2all0046
+  - first:
+      213: 5727994923570884107
+    second: ladofrente2all0048
+  - first:
+      213: -8869808059638641287
+    second: ladofrente2all0050
+  - first:
+      213: 4231052206312070257
+    second: ladofrente2all0052
+  - first:
+      213: 6909919444924240761
+    second: ladofrente2all0054
+  - first:
+      213: -7109242281665754273
+    second: ladofrente2all0056
+  - first:
+      213: -5977683839374666664
+    second: ladofrente2all0058
+  - first:
+      213: 7901613019200242209
+    second: ladofrente2all0060
+  - first:
+      213: 7773421631995145157
+    second: ladofrente2all0062
+  - first:
+      213: -1615847371518552984
+    second: ladofrente2all0064
+  - first:
+      213: -6751235854807104632
+    second: ladotras1all0000
+  - first:
+      213: 7486716140773218401
+    second: ladotras1all0002
+  - first:
+      213: -3318496847812270046
+    second: ladotras1all0004
+  - first:
+      213: -9199391350142821511
+    second: ladotras1all0006
+  - first:
+      213: 2696353355083823748
+    second: ladotras1all0008
+  - first:
+      213: -7292811603715228034
+    second: ladotras1all0010
+  - first:
+      213: 9218581344304539726
+    second: ladotras1all0012
+  - first:
+      213: -5471369316038692834
+    second: ladotras1all0014
+  - first:
+      213: 9222083254241824618
+    second: ladotras1all0016
+  - first:
+      213: -5324972997643968834
+    second: ladotras1all0018
+  - first:
+      213: -835231449360581589
+    second: ladotras1all0020
+  - first:
+      213: 5390771571823208139
+    second: ladotras1all0022
+  - first:
+      213: -670419135038647937
+    second: ladotras1all0024
+  - first:
+      213: 593250452209722673
+    second: ladotras1all0026
+  - first:
+      213: -158362925581329526
+    second: ladotras1all0028
+  - first:
+      213: -7148016384993274350
+    second: ladotras1all0030
+  - first:
+      213: 4408634304642455658
+    second: ladotras1all0032
+  - first:
+      213: 5405436361034988976
+    second: ladotras1all0034
+  - first:
+      213: -3093453223416035340
+    second: ladotras1all0036
+  - first:
+      213: -2701132152472350161
+    second: ladotras1all0038
+  - first:
+      213: 5026123931144371586
+    second: ladotras1all0040
+  - first:
+      213: 4501586216737768916
+    second: ladotras1all0042
+  - first:
+      213: -6083206238485432285
+    second: ladotras1all0044
+  - first:
+      213: -7066569641409247581
+    second: ladotras1all0046
+  - first:
+      213: 6826925030562126379
+    second: ladotras1all0048
+  - first:
+      213: -1377118585164032851
+    second: ladotras1all0050
+  - first:
+      213: -8976139678571028155
+    second: ladotras1all0052
+  - first:
+      213: 5894923145244810866
+    second: ladotras1all0054
+  - first:
+      213: -566042011641488616
+    second: ladotras1all0056
+  - first:
+      213: -7852517538194462752
+    second: ladotras1all0058
+  - first:
+      213: 9117208525061590177
+    second: ladotras1all0060
+  - first:
+      213: -6280342664100640320
+    second: ladotras1all0062
+  - first:
+      213: -6391779437033405731
+    second: ladotras1all0064
+  - first:
+      213: -4669506776388779457
+    second: ladotras2all0000
+  - first:
+      213: 7776611100041083578
+    second: ladotras2all0002
+  - first:
+      213: -2213894684445060213
+    second: ladotras2all0004
+  - first:
+      213: -8837332114292423660
+    second: ladotras2all0006
+  - first:
+      213: -5691938547465750099
+    second: ladotras2all0008
+  - first:
+      213: -8072472818144281583
+    second: ladotras2all0010
+  - first:
+      213: 5623164371108583513
+    second: ladotras2all0012
+  - first:
+      213: 5550973501499042717
+    second: ladotras2all0014
+  - first:
+      213: -2711707986578512105
+    second: ladotras2all0016
+  - first:
+      213: -7704457696486428968
+    second: ladotras2all0018
+  - first:
+      213: 6074194028505394497
+    second: ladotras2all0020
+  - first:
+      213: 1253071619712781581
+    second: ladotras2all0022
+  - first:
+      213: 5476726952883943548
+    second: ladotras2all0024
+  - first:
+      213: 2696365245831962293
+    second: ladotras2all0026
+  - first:
+      213: -4904264467688780328
+    second: ladotras2all0028
+  - first:
+      213: -1612470047743634453
+    second: ladotras2all0030
+  - first:
+      213: 6079978243205102653
+    second: ladotras2all0032
+  - first:
+      213: -3420566011298686536
+    second: ladotras2all0034
+  - first:
+      213: 4850055533726723165
+    second: ladotras2all0036
+  - first:
+      213: -4353067755838113720
+    second: ladotras2all0038
+  - first:
+      213: -6826830805845367853
+    second: ladotras2all0040
+  - first:
+      213: 8888764761295671516
+    second: ladotras2all0042
+  - first:
+      213: 4788127266614324754
+    second: ladotras2all0044
+  - first:
+      213: 6469459918882814586
+    second: ladotras2all0046
+  - first:
+      213: 6914838142131515869
+    second: ladotras2all0048
+  - first:
+      213: -5279996812104665289
+    second: ladotras2all0050
+  - first:
+      213: -665062401417142278
+    second: ladotras2all0052
+  - first:
+      213: -576486265391059367
+    second: ladotras2all0054
+  - first:
+      213: 5997562122276264862
+    second: ladotras2all0056
+  - first:
+      213: 7939022977733941683
+    second: ladotras2all0058
+  - first:
+      213: 3799071986655903922
+    second: ladotras2all0060
+  - first:
+      213: 330100024988636042
+    second: ladotras2all0062
+  - first:
+      213: -2299890510686830547
+    second: ladotras2all0064
+  - first:
+      213: 967602279798550956
+    second: trasall0000
+  - first:
+      213: -8351991136987603525
+    second: trasall0002
+  - first:
+      213: -8082442345453565937
+    second: trasall0004
+  - first:
+      213: -4985628023798454384
+    second: trasall0006
+  - first:
+      213: -7746475679957862919
+    second: trasall0008
+  - first:
+      213: -4850311936117628804
+    second: trasall0010
+  - first:
+      213: -5488902397391971370
+    second: trasall0012
+  - first:
+      213: -7015484466856819139
+    second: trasall0014
+  - first:
+      213: -3207159346817224996
+    second: trasall0016
+  - first:
+      213: -1657418772120084807
+    second: trasall0018
+  - first:
+      213: -1594305327610297702
+    second: trasall0020
+  - first:
+      213: 3642477998374399333
+    second: trasall0022
+  - first:
+      213: 4186747457790528403
+    second: trasall0024
+  - first:
+      213: -8262077065192507386
+    second: trasall0026
+  - first:
+      213: 5235478827575720020
+    second: trasall0028
+  - first:
+      213: -2473269953056358701
+    second: trasall0030
+  - first:
+      213: 117356989061513627
+    second: trasall0032
+  - first:
+      213: -6551290410173266237
+    second: trasall0034
+  - first:
+      213: 6592311892358576479
+    second: trasall0036
+  - first:
+      213: -3513349177177717617
+    second: trasall0038
+  - first:
+      213: -4084836537681174037
+    second: trasall0040
+  - first:
+      213: 4512357809124649176
+    second: trasall0042
+  - first:
+      213: -9148664318233195280
+    second: trasall0044
+  - first:
+      213: 5907027865753349157
+    second: trasall0046
+  - first:
+      213: 6049674249042401818
+    second: trasall0048
+  - first:
+      213: 5013690329625593279
+    second: trasall0050
+  - first:
+      213: -6830158117218526521
+    second: trasall0052
+  - first:
+      213: -7354800445158219759
+    second: trasall0054
+  - first:
+      213: 8358066868303705404
+    second: trasall0056
+  - first:
+      213: 1365149729559660403
+    second: trasall0058
+  - first:
+      213: -4104185221054841573
+    second: trasall0060
+  - first:
+      213: 1487023231763120781
+    second: trasall0062
+  - first:
+      213: 53487088503063098
+    second: trasall0064
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frenteall0000
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 745
+        width: 25
+        height: 63
+      alignment: 9
+      pivot: {x: 0.68, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7732e062b69330800000000000000
+      internalID: 3717354671622814858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0002
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 508
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.29032257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7f60c34829aa70800000000000000
+      internalID: 8838640015147760892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 787
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.525, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb681ce7c870beb0800000000000000
+      internalID: -4706128810547319857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0006
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 456
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b25a397398f220800000000000000
+      internalID: 2519926140392616122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0008
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 498
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555aa9f30dd28980800000000000000
+      internalID: -8538018934397708964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0010
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 532
+        width: 26
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.21212122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f998a1ad62a2d80800000000000000
+      internalID: -8274758647149912202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0012
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 498
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f8a9ada75cbca0800000000000000
+      internalID: -5999824200176961242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0014
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 456
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dab23f9a0f635d0800000000000000
+      internalID: -3083012282168660609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 787
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.525, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b88f7a7416aefb0800000000000000
+      internalID: -4617771507526366443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0018
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 508
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.29032257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d3417599224430800000000000000
+      internalID: 3765617960262292598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0020
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 745
+        width: 25
+        height: 63
+      alignment: 9
+      pivot: {x: 0.68, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777026b4121a7020800000000000000
+      internalID: 2340202836536620920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0022
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 578
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa55b8146a41960800000000000000
+      internalID: 7571859673957378723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0024
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 461
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a3eb2491e06fe0800000000000000
+      internalID: -1197709474372803849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b91c1133c0c7ed0800000000000000
+      internalID: -2415041886696662136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0028
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 674
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa692d90a8c120570800000000000000
+      internalID: 8431332831586850474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191da304da08c1a60800000000000000
+      internalID: 7646127748963553681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0032
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 842
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ef89cf54653600800000000000000
+      internalID: 447374100559552552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0034
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 490
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7a1d658b1c02f0800000000000000
+      internalID: -1005398356935410879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0036
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 478
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e165f3be5628120800000000000000
+      internalID: 2414604411278335546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0038
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 495
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a981dea2b84b4a40800000000000000
+      internalID: 5353452514334312869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0040
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 612
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2aa43cbf9626f70800000000000000
+      internalID: 9179015520568648366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0042
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 579
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c9d8e60b035130800000000000000
+      internalID: 3554196655229747929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0044
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 425
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e61f036910117e0800000000000000
+      internalID: -1796653031766266301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0046
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 908
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f49e79d7e23e61b0800000000000000
+      internalID: -5661531710190349069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0048
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 635
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ee19582b1621d70800000000000000
+      internalID: 9012373223694790216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0050
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 693
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153cce79b0c8b31b0800000000000000
+      internalID: -5675788923948973231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0052
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 439
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a536358755cd1e0800000000000000
+      internalID: -2171766945015965100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0054
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 795
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6fa3b604b11bc60800000000000000
+      internalID: 7832071190464886520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0056
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 473
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46759293391a42bd0800000000000000
+      internalID: -2655820226550474908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0058
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 530
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075a1c4d6c1e77f0800000000000000
+      internalID: -613021243522001140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0060
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 640
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.41935483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aaf34ee2b3c3ce0800000000000000
+      internalID: -1424198309572007267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0062
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 450
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc24cbb6452c51d0800000000000000
+      internalID: -3360770236197098252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenteall0064
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 416
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e23e193933bf60800000000000000
+      internalID: 8048839876523779982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0000
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 510
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.68, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e0a7f9d2309d80800000000000000
+      internalID: -8246035005971570547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0002
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 545
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.68, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4edac14b3562a10800000000000000
+      internalID: 1884285527141508286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0004
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 864
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7407407, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4c854591fd84270800000000000000
+      internalID: 8235077218529232059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0006
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 554
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7083333, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0450d86590f281f90800000000000000
+      internalID: -6982779505084660416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0008
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 517
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15463c10c7a99e0800000000000000
+      internalID: -1613841169443958334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0010
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 488
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1a6aa15b09f0f0800000000000000
+      internalID: -1082821790026556268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0012
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 517
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c675ddb4e979a8f60800000000000000
+      internalID: 8037403191129495404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0014
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 554
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7083333, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc7a2e730ced670800000000000000
+      internalID: 8565494887563644345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0016
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 864
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7407407, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ba01164049a4d0800000000000000
+      internalID: -3122894196926926097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0018
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 545
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.68, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c17d4a38fa4c50800000000000000
+      internalID: 6650400729057050848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0020
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 510
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.68, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f37f452eaf542be0800000000000000
+      internalID: -1502971174079990797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0022
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 523
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1374c0484d5730800000000000000
+      internalID: 3989424287931112250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0024
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 522
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728efd85fe460540800000000000000
+      internalID: 4973749655033512564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0026
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 664
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f02d0d45fd660cd0800000000000000
+      internalID: -2592263635178020617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0028
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 985
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c30b6784361aa0800000000000000
+      internalID: -6190702881553529784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0030
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 599
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4909bedc4112a70800000000000000
+      internalID: 8800338021511632046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0032
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 638
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10d623aee074ce0800000000000000
+      internalID: -1421150758380961314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0034
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 569
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf1f522e74beb9e0800000000000000
+      internalID: -1603645963461779512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0036
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 662
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85a14d4132ba240800000000000000
+      internalID: 4803971999885580468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0038
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 641
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe46a8361241990800000000000000
+      internalID: -7416265974965014784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0040
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 709
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b5ab797f39f4a70800000000000000
+      internalID: 8813425687399127961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0042
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 759
+        width: 33
+        height: 54
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0.2962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c34fd83f0f24680800000000000000
+      internalID: -8772184195314992097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0044
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 989
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b87ff13fd48a880800000000000000
+      internalID: -8599537781855253687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0046
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 719
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64cffac5931b9e0800000000000000
+      internalID: -1607440521742235930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0048
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 948
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.18421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28cfec11b02da40800000000000000
+      internalID: 5391383875030909682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0050
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 773
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5cd165a825ba10800000000000000
+      internalID: 1924489106547302295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0052
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 981
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c755bb79dbd920800000000000000
+      internalID: 3016243500801312423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0054
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 818
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.75, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0deff93c9a964010800000000000000
+      internalID: 1172794748755242255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0056
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 681
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bc3a93f0cd85e30800000000000000
+      internalID: 4492582586251725644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0058
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 787
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adf33d1cc36284e0800000000000000
+      internalID: -1980911157775172185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0060
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 817
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba6bd16429aeed0800000000000000
+      internalID: -2383932222895379511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0062
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 910
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.67391306, y: 0.20408164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78861ff2f4e36fb20800000000000000
+      internalID: 3167787897729411207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado1all0064
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 988
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e682f4fdd35380800000000000000
+      internalID: -8983592787563323310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0000
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 893
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d66cd247444550800000000000000
+      internalID: 6144114144131339003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0002
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 940
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82a1b085f690480800000000000000
+      internalID: -8932485961978599183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0004
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 534
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1beaf23481ec2a0800000000000000
+      internalID: -6715403317520977466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0006
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 980
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.1627907, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fe390bf3752230800000000000000
+      internalID: 3613421798063797581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 881
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.23913044, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd418db599053930800000000000000
+      internalID: 4122211572661702096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0010
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 562
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9cb5eaa840979e0800000000000000
+      internalID: -1623261197013104176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 881
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.23913044, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47137aa9b72edc6c0800000000000000
+      internalID: -4121389063470632588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0014
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 980
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.1627907, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad82ca5a9756425d0800000000000000
+      internalID: -3088231871324346150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0016
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 534
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647fc5c0b4e593a0800000000000000
+      internalID: -6659165026113325981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0018
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 940
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.39534885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f8459131510080800000000000000
+      internalID: -9223001288478231802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0020
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 893
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40bb04901e60890800000000000000
+      internalID: -7492053500227287899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0022
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 587
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.32, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095aacf96fdd97d0800000000000000
+      internalID: -2909924137907889917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0024
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 495
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400947517297deba0800000000000000
+      internalID: -6058052714972803068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0026
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 859
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cde279aa5e32300800000000000000
+      internalID: 226276927142288477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0028
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 888
+        width: 39
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.12962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30cd2e9ae7975780800000000000000
+      internalID: -8694313521683513281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0030
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 580
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff5ed2dae926fd0800000000000000
+      internalID: -2350141588897398838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0032
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 897
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.21621622, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30a17b1e48f418e0800000000000000
+      internalID: -1723479743024488386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0034
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 559
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.36, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e25af35a1f17ce0800000000000000
+      internalID: -1409079516350566790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0036
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 880
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eccc1f9726370a80800000000000000
+      internalID: -8500766227837432601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0038
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 652
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc44e30cb1a8a750800000000000000
+      internalID: 6316476306278337783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0040
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 844
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.34285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b735b7daec0260800000000000000
+      internalID: 7065280127616661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0042
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 724
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe7b5e18a3d26270800000000000000
+      internalID: 8242382987058708159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0044
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 975
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0.34042552, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d5e5cc433f8a680800000000000000
+      internalID: -8743471268447232689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 966
+        width: 54
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4a3a1622b9a2c0800000000000000
+      internalID: -4419805682568900640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0048
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 837
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba924c80c52cf910800000000000000
+      internalID: 1872413053996407472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0050
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 768
+        width: 33
+        height: 25
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709353f48ddd7ff0800000000000000
+      internalID: -36629658861334406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0052
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 749
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c442e55c42789440800000000000000
+      internalID: 4942826263223092416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0054
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 671
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.31034482, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f58fa639501c30800000000000000
+      internalID: 4328057333310945787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0056
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 992
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d275a9c8b608570800000000000000
+      internalID: 8466885551085530384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0058
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 944
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662afbcb3ae8ed700800000000000000
+      internalID: 567047436992750182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0060
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 815
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc46992ff1d2a10800000000000000
+      internalID: 1886198945754172645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0062
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 745
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68348ceaec235600800000000000000
+      internalID: 455757374796609646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lado2all0064
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 802
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97b1c9fbf6df77a0800000000000000
+      internalID: -6377142169617975398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0000
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 521
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69cb0bc573f80ec0800000000000000
+      internalID: -3600360214839441041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0002
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 557
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc0f377e8b56aa40800000000000000
+      internalID: 5379087472384740535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0004
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 528
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50333f39d7aaaffd0800000000000000
+      internalID: -2307344402744134907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0006
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 522
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d84697b41614c90800000000000000
+      internalID: -7187356553519526589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0008
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 469
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c495ed0992273660800000000000000
+      internalID: 7365393756346225862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0010
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 510
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f7323ea6937600800000000000000
+      internalID: 464880861460297333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0012
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 469
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8fabb81798b8570800000000000000
+      internalID: 8470014644968945881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0014
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 522
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7531df24b57c7e0800000000000000
+      internalID: -1745325987310905402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0016
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 528
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72daa0d6ecd370e70800000000000000
+      internalID: 9081295130417868071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0018
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 557
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee21f8ac80e080100800000000000000
+      internalID: 74324824772514542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0020
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 521
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f399c822d6637890800000000000000
+      internalID: -7461507104809315341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0022
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 619
+        width: 26
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3410454155d82860800000000000000
+      internalID: 7505483324043826235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0024
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 695
+        width: 31
+        height: 52
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae8aa3ceebcd9790800000000000000
+      internalID: -7521631576293470546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0026
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 846
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.30555555, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15822b5df63e840800000000000000
+      internalID: 5252164554051834344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0028
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 483
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06759cb2e81faab0800000000000000
+      internalID: -4994746099625003509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0030
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 600
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5887d0a4d1ca15c80800000000000000
+      internalID: -8335692193489651579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0032
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 568
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6, y: 0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e6cde4f32f5a4e0800000000000000
+      internalID: -1970902908184793561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0034
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 582
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ecd68de6296dd0800000000000000
+      internalID: -2492418117161131300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0036
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 935
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4, y: 0.30232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9bba054888e76b0800000000000000
+      internalID: -5296646009870632505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0038
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 607
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a867dd41657ea0800000000000000
+      internalID: -5875683151880608589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0040
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 443
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749643e4a9ad9ff0800000000000000
+      internalID: -27679497041570694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0042
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 888
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7297297, y: 0.18421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ff68689d88fe60800000000000000
+      internalID: 7996296824123029521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0044
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 466
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c1f69e5cc657c0800000000000000
+      internalID: -4082851305533356412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0046
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 502
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.625, y: 0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa9828fd5c50610800000000000000
+      internalID: 1586892007476406912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0048
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 855
+        width: 37
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d8d9136ee103dd0800000000000000
+      internalID: -2508471018421646055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0050
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 505
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73937df5351e9710800000000000000
+      internalID: 1701821030822286202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0052
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 439
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44d55c708d32cb0800000000000000
+      internalID: -4889827242506631991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0054
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 414
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677656d7a2265cae0800000000000000
+      internalID: -1529708563790469258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a19cf495bd9d60800000000000000
+      internalID: 7898668972974908170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0058
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 604
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf87bc3b292cc2b0800000000000000
+      internalID: -5563026174030409803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0060
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 846
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836187fc142549a0800000000000000
+      internalID: -6249549201076558961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0062
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 625
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacbda98c67f1bf80800000000000000
+      internalID: -8092415009869677398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente1all0064
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 890
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: 0.70731705, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01f5a6172a001d0800000000000000
+      internalID: -3386528311782993696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 748
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa3c15ac01394e80800000000000000
+      internalID: -8193964116644447503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0002
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 542
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4718b75c68729740800000000000000
+      internalID: 5157316930016122700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0004
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 854
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3243243, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd9a6575c93bd020800000000000000
+      internalID: 2367549549354589618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0006
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 600
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e60e81d310f2470800000000000000
+      internalID: 8371911594227035663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0008
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 553
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88bcc94e38d50150800000000000000
+      internalID: 5838310253993441418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0010
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 533
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.375, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c6ef3e108bcb130800000000000000
+      internalID: 3583941721739652168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0012
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 553
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9e22593867c7f0800000000000000
+      internalID: -592390230574719196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0014
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 600
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4250993a0eb35e60800000000000000
+      internalID: 7949906718363767371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0016
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 854
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3243243, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313aa7ac7343b2dc0800000000000000
+      internalID: -3662776457710886125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0018
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 542
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4, y: 0.2580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b61c4177353130800000000000000
+      internalID: 3545801241371521043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 748
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbf519f9ac1db20800000000000000
+      internalID: 3157527600451009368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0022
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 711
+        width: 35
+        height: 49
+      alignment: 9
+      pivot: {x: 0.31428573, y: 0.30612245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1fbb79e7578a30800000000000000
+      internalID: 4217436236370876987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0024
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8958d2237396d0800000000000000
+      internalID: -2984915534520677338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0026
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 891
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.23404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb97777ada2d41e0800000000000000
+      internalID: -2212064724173480985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0028
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 927
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.17307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537592a1c3e28dc50800000000000000
+      internalID: 6690148082130704181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0030
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 551
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f826c45945d7dd8c0800000000000000
+      internalID: -3972881494035373425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0032
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 575
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc71bc73866eeb6f0800000000000000
+      internalID: -666842359517210673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0034
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 608
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e52cc9556cd26e0800000000000000
+      internalID: -1860613000029643157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0036
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 610
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215f93c88f84e630800000000000000
+      internalID: 3955444190298460448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0038
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 738
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570e3e921078fe60800000000000000
+      internalID: 7996264363662903135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0040
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 826
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3783784, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa80630d05c76a40800000000000000
+      internalID: 5361470541089770144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0042
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 578
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ae801704c4d6c0800000000000000
+      internalID: -4119452224515563497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0044
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 555
+        width: 26
+        height: 21
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdce05b6813cb5d0800000000000000
+      internalID: -3045504793376272951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 927
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a8e9d75d05d2a10800000000000000
+      internalID: 1886252696803904018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0048
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 781
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eeea6e80ded7f40800000000000000
+      internalID: 5727994923570884107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0050
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 760
+        width: 33
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d8753609c18e480800000000000000
+      internalID: -8869808059638641287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0052
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 734
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1d578097b7ba30800000000000000
+      internalID: 4231052206312070257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0054
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 961
+        width: 52
+        height: 26
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731645ff17f4ef50800000000000000
+      internalID: 6909919444924240761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0056
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 809
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b002bafc5e65d90800000000000000
+      internalID: -7109242281665754273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0058
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 987
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854da7e18300b0da0800000000000000
+      internalID: -5977683839374666664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0060
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 642
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122480a2d2b28ad60800000000000000
+      internalID: 7901613019200242209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0062
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 667
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.32142857, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6868f9cdb0eb60800000000000000
+      internalID: 7773421631995145157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladofrente2all0064
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 495
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645361706b5399e0800000000000000
+      internalID: -1615847371518552984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0000
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883875772cace42a0800000000000000
+      internalID: -6751235854807104632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0002
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 587
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16898f8e9a826e760800000000000000
+      internalID: 7486716140773218401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0004
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 522
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22865e5f2b452f1d0800000000000000
+      internalID: -3318496847812270046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0006
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9fe8be42355080800000000000000
+      internalID: -9199391350142821511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0008
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 525
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.625, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a34be271f5b6520800000000000000
+      internalID: 2696353355083823748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 507
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.625, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef4b24c7abaca90800000000000000
+      internalID: -7292811603715228034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0012
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 525
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.625, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a058f3eafeef70800000000000000
+      internalID: 9218581344304539726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0014
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ba8a789ac114b0800000000000000
+      internalID: -5471369316038692834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0016
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 522
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f892aebdb6bff70800000000000000
+      internalID: 9222083254241824618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0018
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 587
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe52e48545e916b0800000000000000
+      internalID: -5324972997643968834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0020
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cb0ab0c69a864f0800000000000000
+      internalID: -835231449360581589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0022
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 718
+        width: 34
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ebcbde2edfca40800000000000000
+      internalID: 5390771571823208139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0024
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 832
+        width: 35
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6571429, y: 0.32608697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719565495132b6f0800000000000000
+      internalID: -670419135038647937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0026
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 589
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135ecc2a426ab3800800000000000000
+      internalID: 593250452209722673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0028
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 667
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b122b12c16dcdf0800000000000000
+      internalID: -158362925581329526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0030
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ddcb38f42dcc90800000000000000
+      internalID: -7148016384993274350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0032
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 762
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6890d8ca8d9e2d30800000000000000
+      internalID: 4408634304642455658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0034
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 632
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd787b2bb7f30b40800000000000000
+      internalID: 5405436361034988976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0036
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 643
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70001eea8d115d0800000000000000
+      internalID: -3093453223416035340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0038
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 928
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22df785e96a38ad0800000000000000
+      internalID: -2701132152472350161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0040
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 766
+        width: 35
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d33f8f51160c540800000000000000
+      internalID: 5026123931144371586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0042
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 765
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.65789473, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5037e40d8d87e30800000000000000
+      internalID: 4501586216737768916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0044
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 582
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7307692, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328b2a3082c149ba0800000000000000
+      internalID: -6083206238485432285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0046
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 941
+        width: 37
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7297297, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60e37f9508eed90800000000000000
+      internalID: -7066569641409247581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0048
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 860
+        width: 41
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6585366, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad0ea052c1ebe50800000000000000
+      internalID: 6826925030562126379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0050
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 854
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.625, y: 0.28846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da495bd61fd73ece0800000000000000
+      internalID: -1377118585164032851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0052
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 684
+        width: 33
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412c7c15885e6380800000000000000
+      internalID: -8976139678571028155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0054
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 618
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7307692, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e9b823e59fec150800000000000000
+      internalID: 5894923145244810866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0056
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 679
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b59281ac30528f0800000000000000
+      internalID: -566042011641488616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0058
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 807
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e46747e0460390800000000000000
+      internalID: -7852517538194462752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0060
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 753
+        width: 35
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6857143, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac857739d4d68e70800000000000000
+      internalID: 9117208525061590177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0062
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 928
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7027027, y: 0.21276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c90d862f9db7d8a0800000000000000
+      internalID: -6280342664100640320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras1all0064
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 717
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.75, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd24af49776db47a0800000000000000
+      internalID: -6391779437033405731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0000
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 545
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324115b354923fb0800000000000000
+      internalID: -4669506776388779457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0002
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 542
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafe4ed7921ceb60800000000000000
+      internalID: 7776611100041083578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0004
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 508
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d683a38aa641e0800000000000000
+      internalID: -2213894684445060213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0006
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 563
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c275a34d7b5580800000000000000
+      internalID: -8837332114292423660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0008
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 458
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da973fa5c0c2201b0800000000000000
+      internalID: -5691938547465750099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0010
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 701
+        width: 31
+        height: 62
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c738fddb0d8ff80800000000000000
+      internalID: -8072472818144281583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0012
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 458
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585f85e33e790e40800000000000000
+      internalID: 5623164371108583513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0014
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 563
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9be4724df4090d40800000000000000
+      internalID: 5550973501499042717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0016
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 508
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717e56514f31e5ad0800000000000000
+      internalID: -2711707986578512105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0018
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 542
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee6e58b84441590800000000000000
+      internalID: -7704457696486428968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0020
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 545
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14decd5594fdb4450800000000000000
+      internalID: 6074194028505394497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0022
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 881
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8a13cffdc36110800000000000000
+      internalID: 1253071619712781581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0024
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 485
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.375, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78747e852e310c40800000000000000
+      internalID: 5476726952883943548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0026
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 378
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed586b7e96b6520800000000000000
+      internalID: 2696365245831962293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0028
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 984
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd07d6537d80fbb0800000000000000
+      internalID: -4904264467688780328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0030
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 810
+        width: 17
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be39849e80b5f99e0800000000000000
+      internalID: -1612470047743634453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0032
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 914
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cf754cffb606450800000000000000
+      internalID: 6079978243205102653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0034
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 607
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b954cde555b780d0800000000000000
+      internalID: -3420566011298686536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0036
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 693
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce2bcafcbde4340800000000000000
+      internalID: 4850055533726723165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0038
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 669
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ff0a80fbc693c0800000000000000
+      internalID: -4353067755838113720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a4eb5d893241a0800000000000000
+      internalID: -6826830805845367853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0042
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 599
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0d909a47c3b5b70800000000000000
+      internalID: 8888764761295671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0044
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 468
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea8e16168d27240800000000000000
+      internalID: 4788127266614324754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 697
+        width: 31
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a33a1058328c950800000000000000
+      internalID: 6469459918882814586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0048
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 684
+        width: 25
+        height: 59
+      alignment: 9
+      pivot: {x: 0.44, y: 0.30508474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1321567a076ff50800000000000000
+      internalID: 6914838142131515869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0050
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 673
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.2244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7377e4fbfdea9b6b0800000000000000
+      internalID: -5279996812104665289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0052
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 386
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff1012054935c6f0800000000000000
+      internalID: -665062401417142278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0054
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 634
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.32, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6975cbc8eff7f0800000000000000
+      internalID: -576486265391059367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0056
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 705
+        width: 34
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b5d9849fe9b3350800000000000000
+      internalID: 5997562122276264862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0058
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 672
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9de73e5531d2e60800000000000000
+      internalID: 7939022977733941683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0060
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 977
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.575, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b043c0f7d309b430800000000000000
+      internalID: 3799071986655903922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0062
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 546
+        width: 26
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a839bc94930c49400800000000000000
+      internalID: 330100024988636042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladotras2all0064
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 805
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25, y: 0.22916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20483014c52510e0800000000000000
+      internalID: -2299890510686830547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0000
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 541
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1304b952d9d6d00800000000000000
+      internalID: 967602279798550956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0002
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 505
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd94a8cf44c71c80800000000000000
+      internalID: -8351991136987603525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0004
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 471
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084aa9628565df80800000000000000
+      internalID: -8082442345453565937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0006
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 471
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a2433abd7fcab0800000000000000
+      internalID: -4985628023798454384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0008
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 410
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b8e2696dfe7490800000000000000
+      internalID: -7746475679957862919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0010
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 555
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702fddfdfa30bcb0800000000000000
+      internalID: -4850311936117628804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0012
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 410
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db59acd95083d3b0800000000000000
+      internalID: -5488902397391971370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0014
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 471
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d368ab90c0ef3ae90800000000000000
+      internalID: -7015484466856819139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0016
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 471
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea2eaf091ed73d0800000000000000
+      internalID: -3207159346817224996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0018
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 505
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bed7bb786aaff8e0800000000000000
+      internalID: -1657418772120084807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0020
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 541
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92864460c3efd9e0800000000000000
+      internalID: -1594305327610297702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0022
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 669
+        width: 23
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d284bd07eac8230800000000000000
+      internalID: 3642477998374399333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 655
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bcfd961a05a1a30800000000000000
+      internalID: 4186747457790528403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0026
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 642
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6087c4efea4375d80800000000000000
+      internalID: -8262077065192507386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0028
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 901
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458bab2414828a840800000000000000
+      internalID: 5235478827575720020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0030
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 372
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3debd66e41e2dadd0800000000000000
+      internalID: -2473269953056358701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0032
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 351
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91cbec4f8fe0a100800000000000000
+      internalID: 117356989061513627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0034
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 794
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6033905142515a0800000000000000
+      internalID: -6551290410173266237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0036
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 468
+        width: 16
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59bd901db89c7b50800000000000000
+      internalID: 6592311892358576479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0038
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 848
+        width: 17
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f844962b9831e3fc0800000000000000
+      internalID: -3513349177177717617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0040
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 711
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be12af5bfcebf47c0800000000000000
+      internalID: -4084836537681174037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0042
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 607
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8a558158d1f9e30800000000000000
+      internalID: 4512357809124649176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0044
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 494
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4b66364a690180800000000000000
+      internalID: -9148664318233195280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0046
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 598
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cef801c8af9f150800000000000000
+      internalID: 5907027865753349157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0048
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 478
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a100d4da2c4f350800000000000000
+      internalID: 6049674249042401818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0050
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 749
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb505278ac4349540800000000000000
+      internalID: 5013690329625593279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0052
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 592
+        width: 28
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca507f41676631a0800000000000000
+      internalID: -6830158117218526521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0054
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 617
+        width: 26
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a57866ff7ee990800000000000000
+      internalID: -7354800445158219759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0056
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 451
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c353436a881ddf370800000000000000
+      internalID: 8358066868303705404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 21
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.29545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377cf97327cf1f210800000000000000
+      internalID: 1365149729559660403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3e9e49410b07c0800000000000000
+      internalID: -4104185221054841573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0062
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 791
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.225, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828efd20c7f2a410800000000000000
+      internalID: 1487023231763120781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trasall0064
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 942
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a328b4e39360eb000800000000000000
+      internalID: 53487088503063098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
